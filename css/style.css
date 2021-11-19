@@ -1,0 +1,20 @@
+body {
+  background: rgb(165, 192, 111);
+  overflow-x: hidden;
+}
+
+label {
+  font-weight: bold;
+}
+
+.m-top {
+  margin-top: 2rem;
+}
+
+.m-bottom {
+  margin-bottom: 2rem;
+}
+
+.col {
+  margin-top: 0.4rem;
+}
